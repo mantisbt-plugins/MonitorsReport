@@ -15,7 +15,7 @@ Mantis plugin: report shows users monitoring issues
 
 
 ## Download ##
-[Current version 1.0](https://github.com/AnatolyKabakov1983/DownloadFiles/releases/download/1.0.0/DownloadFiles-v1.0.0.zip)
+[Current version 1.0](https://github.com/AnatolyKabakov1983/MonitorsReport/releases/download/1.0/MonitorsReport-v1.0.zip)
 
 
 
