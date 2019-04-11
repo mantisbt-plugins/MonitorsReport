@@ -2,7 +2,11 @@
 
 
 ## Overview ##
-Mantis plugin: report shows users monitoring issues
+Mantis plugin: report shows users monitoring issues.
+Based on excel_xml_export.php (button "Excel Export").
+If a issue is monitored by several users, then a separate line is displayed for each monitor.
+Information on monitors is displayed in the additional last column.
+Button "Monitor" is added to block "Viewing Issues".
 
 
 ## Screenshots ##
