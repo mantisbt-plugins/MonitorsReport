@@ -1,6 +1,6 @@
 <?php
 
-# Copyright (c) 2019 Aantoly Kabakov (anatoly.kabakov.inbev@gmail.com)
+# Copyright (c) 2019 Aantoly Kabakov (anatoly.kabakov.inbev@gmail.com), Ruzhelovich Vladimir (ruzhelovich.vladimir@gmail.com)
 
 # Download files for MantisBT is free software: 
 # you can redistribute it and/or modify it under the terms of the GNU
