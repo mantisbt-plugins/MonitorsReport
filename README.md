@@ -11,6 +11,8 @@ Button "Monitor" is added to block "Viewing Issues".
 
 ## Screenshots ##
 ![alt text](Screenshots/Monnitor.png)
+![alt text](Screenshots/monitoring_issue.png)
+![alt text](Screenshots/report_excel.png)
 
 
 ## Info ##
